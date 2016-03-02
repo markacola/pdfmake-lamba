@@ -1,0 +1,28 @@
+{
+  "name": "pdfmake-lamba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "build": "node scripts/build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markacola/pdfmake-lamba.git"
+  },
+  "author": "Mark Cola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markacola/pdfmake-lamba/issues"
+  },
+  "homepage": "https://github.com/markacola/pdfmake-lamba#readme",
+  "dependencies": {
+    "aws-sdk": "^2.2.40",
+    "pdfmake": "^0.1.18",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "archiver": "^0.21.0"
+  }
+}
