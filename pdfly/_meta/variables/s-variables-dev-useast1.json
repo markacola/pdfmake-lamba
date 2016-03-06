@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "pdfly-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::742827567510:role/pdfly-dev-r-IamRoleLambda-MITZLWVZS9G9",
+  "apiGatewayApi": "pdfly"
+}

@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node test",
-    "build": "node scripts/build"
   },
   "repository": {
     "type": "git",
@@ -23,6 +21,8 @@
     "uuid": "^2.0.1"
   },
   "devDependencies": {
-    "archiver": "^0.21.0"
+    "archiver": "^0.21.0",
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.12.0"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "context": {
+    "invoiceNumber": "003",
+    "cost": "627.90",
+    "projectFee50": "349.50",
+    "hostingCost": "278.40",
+    "client": {
+      "contactName": "Tracey Rosewall",
+      "company": "Sew Nice Dolls Clothes and Accessories"
+    }
+  },
+  "docTemplate": "doomdaytuna-invoice"
+}
